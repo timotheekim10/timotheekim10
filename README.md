@@ -18,6 +18,11 @@
   | Knock Knock | 인맥 관리 및 연락 관리 서비스 | FE(Swift) | [Repo](https://github.com/UMC-KnockKnock) |
   | BEUS | 1인칭 시점 스포츠 영상 제공 및 교육 서비스 | PL, FE(Swift) | [Repo](https://github.com/BE-US) |
 
+### Contest
+  | 대회 명 | 수상 내용 | 프로젝트 명 | 설명 | 역할 | GitHub |
+  |:----:|:----:|:----:|:----:|:----:|:----:|
+  | 33기 솝커톤 | 최우수상 | re-ing | 출소자를 위한 사회적 인식 개선 서비스 | FE(Swift) | [Repo](https://github.com/SOPT-33-iOS-Team-1) |
+
 ### Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
