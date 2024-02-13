@@ -9,7 +9,7 @@
   |----|:----:|:----:|
   | 2022.09 - 2023.07 | Google Development Students Club 4기 Member | 세미나(Flutter) 참여 및 앱 개발 프로젝트 수행 |
   | 2023.03 - 2023.08 | University MakeUS Challenge 4기 iOS 파트 Member(YB) | 세미나(Swift) 참여 및 앱 개발 프로젝트 수행 |
-  | 2023.09 -  | Shout Our Passion Together 33기 iOS 파트 Member(YB) | 세미나(Swift) 참여 및 앱 개발 프로젝트 수행 |
+  | 2023.09 - 2024.02 | Shout Our Passion Together 33기 iOS 파트 Member(YB) | 세미나(Swift) 참여 및 앱 개발 프로젝트 수행 |
 
 ### Project
   | 프로젝트 명 | 설명 | 역할 | GitHub |
@@ -22,6 +22,7 @@
   | 대회 명 | 수상 내용 | 프로젝트 명 | 설명 | 역할 | GitHub |
   |:----:|:----:|:----:|:----:|:----:|:----:|
   | 33기 솝커톤 | 최우수상 | re-ing | 출소자를 위한 사회적 인식 개선 서비스 | FE(Swift) | [Repo](https://github.com/SOPT-33-iOS-Team-1) |
+  | 33기 앱잼 | 우수상 | Softie | 가장 사소한 습관 루틴 성장 앱 | FE(Swift) | [Repo](https://github.com/Team-Sopetit) |
 
 ### Tech Stack
 <p>
