@@ -11,7 +11,7 @@
 </p>
 
 ### Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=timotheekim10)](https://solved.ac/timotheekim10)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=timotheekim10)](https://solved.ac/timotheekim10)
 
 ### Experience
   | 기간 | 활동 | 역할 및 내용 |
