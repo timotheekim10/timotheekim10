@@ -4,6 +4,15 @@
 ### Education
   2018.03 - : Hankuk University of Foreign Studies, Global Business & Technology
 
+### Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
+</p>
+
+### Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=timotheekim10)](https://solved.ac/timotheekim10)
+
 ### Experience
   | 기간 | 활동 | 역할 및 내용 |
   |----|:----:|:----:|
@@ -23,12 +32,6 @@
   |:----:|:----:|:----:|:----:|:----:|:----:|
   | 33기 솝커톤 | 최우수상 | re-ing | 출소자를 위한 사회적 인식 개선 서비스 | FE(Swift) | [Repo](https://github.com/SOPT-33-iOS-Team-1) |
   | 33기 앱잼 | 우수상 | Softie | 가장 사소한 습관 루틴 성장 앱 | FE(Swift) | [Repo](https://github.com/Team-Sopetit) |
-
-### Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-</p>
 
 <!--
 ### Hi there 👋
