@@ -1,4 +1,4 @@
-## I'm Timothée, iOS Developer 💻
+## I'm Timothée, iOS Developer 
 > 안녕하세요. iOS(Swift) 개발을 공부하고 있는 김태경입니다.
 
 ### Education
