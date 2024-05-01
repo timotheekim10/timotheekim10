@@ -20,13 +20,6 @@
   | 2023.03 - 2023.08 | University MakeUS Challenge 4기 iOS 파트 Member(YB) | 세미나(Swift) 참여 및 앱 개발 프로젝트 수행 |
   | 2023.09 - 2024.01 | Shout Our Passion Together 33기 iOS 파트 Member(YB) | 세미나(Swift) 참여 및 앱 개발 프로젝트 수행 |
 
-### Project
-  | 프로젝트 명 | 설명 | 역할 | GitHub |
-  |:----:|:----:|:----:|:----:|
-  | Karim | 국가별 앱 추천 및 생활정보 제공 서비스 | PL, FE(Flutter) | [Repo](https://github.com/timotheekim10/Karim) |
-  | Knock Knock | 인맥 관리 및 연락 관리 서비스 | FE(Swift) | [Repo](https://github.com/UMC-KnockKnock) |
-  | BEUS | 1인칭 시점 스포츠 영상 제공 및 교육 서비스 | PL, FE(Swift) | [Repo](https://github.com/BE-US) |
-
 ### Award
   | 대회 명 | 수상 내용 | 프로젝트 명 | 설명 | 역할 | GitHub |
   |:----:|:----:|:----:|:----:|:----:|:----:|
