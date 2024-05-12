@@ -2,7 +2,7 @@
 > 안녕하세요. iOS(Swift) 개발을 공부하고 있는 김태경입니다.
 
 ### Education
-  2018.03 - : Hankuk University of Foreign Studies, Global Business & Technology
+  2018.03 - : Hankuk University of Foreign Studies, Global Business & Technology (경영학사) | Software&AI (공학사)
 
 ### Tech Stack
 <p>
