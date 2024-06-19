@@ -19,6 +19,8 @@
   | 2022.09 - 2023.07 | Google Development Students Club 4기 Member | 세미나(Flutter) 참여 및 앱 개발 프로젝트 수행 |
   | 2023.03 - 2023.08 | University MakeUS Challenge 4기 iOS 파트 Member(YB) | 세미나(Swift) 참여 및 앱 개발 프로젝트 수행 |
   | 2023.09 - 2024.01 | Shout Our Passion Together 33기 iOS 파트 Member(YB) | 세미나(Swift) 참여 및 앱 개발 프로젝트 수행 |
+  | 2024.07 - | 삼성 청년 SW 아카데미 12기 Coding Track(Java) |  |
+
 
 ### Award
   | 대회 명 | 수상 내용 | 프로젝트 명 | 설명 | 역할 | GitHub |
