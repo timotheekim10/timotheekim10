@@ -1,13 +1,13 @@
-## I'm Timothée, iOS Developer 
-> 안녕하세요. iOS(Swift) 개발을 공부하고 있는 김태경입니다.
+## I'm Timothée, Back-end Developer
+> 안녕하세요. Back-end(Java/Spring) 개발을 공부하고 있는 김태경입니다.
 
 ### Education
   2018.03 - 2024.08(졸업예정) : Hankuk University of Foreign Studies, Global Business & Technology (경영학사) | Software & AI (공학사)
 
 ### Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
 </p>
 
 ### Algorithm
