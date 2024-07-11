@@ -1,4 +1,4 @@
-## I'm Timothée, Back-end Developer
+## I'm Timothée, Back-end Engineer
 > 안녕하세요. Back-end(Java/Spring) 개발을 공부하고 있는 김태경입니다.
 
 ### Education
@@ -19,7 +19,7 @@
   | 2022.09 - 2023.07 | Google Development Students Club 4기 Member | 세미나(Flutter) 참여 및 앱 개발 프로젝트 수행 |
   | 2023.03 - 2023.08 | University MakeUS Challenge 4기 iOS 파트 Member(YB) | 세미나(Swift) 참여 및 앱 개발 프로젝트 수행 |
   | 2023.09 - 2024.01 | Shout Our Passion Together 33기 iOS 파트 Member(YB) | 세미나(Swift) 참여 및 앱 개발 프로젝트 수행 |
-  | 2024.07 - | 삼성 청년 SW 아카데미 12기 Coding Track(Java) |  |
+  | 2024.07 - | 삼성 청년 SW 아카데미 12기 Coding Track(Java 전공반) |  |
 
 
 ### Award
