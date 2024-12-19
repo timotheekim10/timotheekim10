@@ -2,7 +2,7 @@
 > 안녕하세요. Back-end(Java/Spring) 개발을 공부하고 있는 김태경입니다.
 
 ### Education
-  2018.03 - 2024.08(졸업) : Hankuk University of Foreign Studies, Global Business & Technology (경영학사) | Software & AI (공학사)
+  2018.03 - 2024.08(졸업) : Hankuk University of Foreign Studies, Global Business & Technology (경영학사, 3.98/4.5) | Software & AI (공학사, 4.31/4.5)
 
 ### Tech Stack
 <p>
@@ -31,6 +31,13 @@
   |:----:|:----:|:----:|:----:|:----:|:----:|
   | 33기 솝커톤 | 최우수상 | re-ing | 출소자를 위한 사회적 인식 개선 서비스 | FE(Swift) | [Repo](https://github.com/SOPT-33-iOS-Team-1) |
   | 33기 앱잼 | 우수상 | Softie | 가장 사소한 습관 루틴 성장 앱 | FE(Swift) | [Repo](https://github.com/Team-Sopetit) |
+
+### Certificate
+  | 자격종목 | 자격증번호 | 합격년월일 |
+  |:----:|:----:|:----:|
+  | 정보처리기사 | 24203130829J | 2024.12.11 |
+  | SQLD | SQLD-055014623 | 2024.12.13 |
+
 
 <!--
 ### Hi there 👋
