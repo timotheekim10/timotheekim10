@@ -2,7 +2,7 @@
 > 안녕하세요. Back-end(Java/Spring) 개발을 공부하고 있는 김태경입니다.
 
 ### Education
-  2018.03 - 2024.08(졸업) : Hankuk University of Foreign Studies, Global Business & Technology (경영학사, 3.98/4.5) | Software & AI (공학사, 4.31/4.5)
+  2018.03 - 2024.08(졸업) : Hankuk University of Foreign Studies, Global Business & Technology (경영학사) | Software & AI (공학사)
 
 ### Tech Stack
 <p>
